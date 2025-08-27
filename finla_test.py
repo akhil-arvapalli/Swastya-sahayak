@@ -12,7 +12,7 @@
 # # import json
 
 # # # Configure Gemini API
-# # GEMINI_API_KEY = "AIzaSyC5UCYCNO9Y2riHbB4FPtgoaQvpKSJSVMw"  # Replace with your API key
+# # GEMINI_API_KEY =  # Replace with your API key
 # # genai.configure(api_key=GEMINI_API_KEY)
 
 # # # Load the trained model
@@ -136,11 +136,11 @@
 # import googlemaps
 
 # # Configure Gemini API
-# GEMINI_API_KEY = "AIzaSyC5UCYCNO9Y2riHbB4FPtgoaQvpKSJSVMw"
+# GEMINI_API_KEY = "YOUR_API_KEY_HERE"
 # genai.configure(api_key=GEMINI_API_KEY)
 
 # # Configure Google Maps API
-# MAPS_API_KEY = "AIzaSyDZRvkzza8WKTu-AhlLKVoUtEwWedCywo8"
+# MAPS_API_KEY = "YOUR_API_KEY_HERE"
 # gmaps = googlemaps.Client(key=MAPS_API_KEY)
 
 # # Load the trained model
@@ -259,11 +259,11 @@ import json
 import googlemaps
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyCbdZcfmr5QC7h6dn9Fk4j7VMZnKqspmuY"
+GEMINI_API_KEY = "YOUR_API_KEY_HERE"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Configure Google Maps API
-MAPS_API_KEY = "AIzaSyDZRvkzza8WKTu-AhlLKVoUtEwWedCywo8"
+MAPS_API_KEY = "YOUR_API_KEY_HERE"
 gmaps = googlemaps.Client(key=MAPS_API_KEY)
 
 # Load the trained model
